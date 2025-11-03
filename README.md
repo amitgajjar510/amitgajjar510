@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+My name is Amit Gajjar and I love to solve problems.
+
 - 🔭 I’m currently working on foodmarkethub.com and constructx
 - 📫 How to reach me: amitgajjar510@gmail.com / +919823487455
 - 😄 Pronouns: he/him
