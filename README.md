@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on foodmarkethub.com and constructx
+- 📫 How to reach me: amitgajjar510@gmail.com / +919823487455
+- 😄 Pronouns: he/him
 
 <!--
 **amitgajjar510/amitgajjar510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
